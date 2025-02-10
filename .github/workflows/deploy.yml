@@ -20,10 +20,11 @@ jobs:
         run: npm run build && npm run export
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ftp.yourdomain.com
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./out/ # Upload only the built static site
           server-dir: /public_html/ # Ensure this is the right directory on your server
+          timeout: 190000
