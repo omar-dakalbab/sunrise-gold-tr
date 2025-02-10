@@ -3,7 +3,7 @@ name: Deploy to Hostinger
 on:
   push:
     branches:
-      - main # Change to your main branch
+      - main  # Change this to your main branch if needed
 
 jobs:
   deploy:
@@ -17,14 +17,16 @@ jobs:
         run: npm install
 
       - name: Build the Next.js App
-        run: npm run build && npm run export
+        run: npm run build
+
+      - name: Export the Static Site
+        run: npx next export
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4
         with:
           server: ftp.yourdomain.com
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./out/ # Upload only the built static site
-          server-dir: /public_html/ # Ensure this is the right directory on your server
-          timeout: 190000
+          local-dir: ./out/  # Only deploy the generated out folder
+          server-dir: /public_html/  # Change this to match your Hostinger directory
