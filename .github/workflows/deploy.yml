@@ -23,7 +23,7 @@ jobs:
         run: npx next export
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@2.0.0
         with:
           server: ftp.yourdomain.com
           username: ${{ secrets.FTP_USERNAME }}
