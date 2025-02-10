@@ -28,5 +28,5 @@ jobs:
           server: ftp://92.113.28.103
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: ./out/  # Deploy only the generated 'out' folder
-          remote_dir: /public_html/  # Change this if needed
+          local-dir: ./out/  # Deploy only the generated 'out' folder
+          server-dir: /public_html/  # Change this if needed
