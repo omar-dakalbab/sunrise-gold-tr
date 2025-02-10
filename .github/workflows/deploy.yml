@@ -25,7 +25,6 @@ jobs:
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@2.0.0
         with:
-          ftp_server: ftp://92.113.28.103
           FTP_SERVER: ftp://92.113.28.103
           ftp_username: ${{ secrets.FTP_USERNAME }}
           ftp_password: ${{ secrets.FTP_PASSWORD }}
