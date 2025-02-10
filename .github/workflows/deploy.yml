@@ -22,9 +22,6 @@ jobs:
       - name: Export the Static Site
         run: npx next export
 
-      - name: Zip the exported Files
-        run: zip -r out.zip ./out/
-
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -33,15 +30,3 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./out/ # Deploy only the generated 'out' folder
           server-dir: /public_html/ # Change this if needed
-          
-      - name: SSH into Server & Unzip (Optional)
-        if: success()
-        uses: appleboy/ssh-action@v0.1.6
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USERNAME }}
-          password: ${{ secrets.SSH_PASSWORD }}
-          script: |
-            cd /public_html/
-            unzip -o out.zip
-            rm out.zip  # Delete zip after extraction
