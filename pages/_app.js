@@ -6,7 +6,7 @@ import Head from "next/head";
 import "react-circular-progressbar/dist/styles.css";
 import "@radix-ui/themes/styles.css";
 
-const APP_VERSION = "1.0.3"; // Change this on every deployment
+const APP_VERSION = "1.0.4"; // Change this on every deployment
 
 function MyApp({ Component, pageProps }) {
   const language = useTranslation();
