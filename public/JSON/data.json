@@ -1,0 +1,400 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "icon": "assets/images/category/icon2.svg",
+      "title": "Legumes and Grains",
+      "titleTr": "Baklagiller ve Tahıllar",
+      "titleAr": "البقوليات والحبوب",
+      "desc": "The finest selection of rice, lentils, and beans",
+      "descTr": "En iyi pirinç, mercimek ve fasulye çeşitleri",
+      "descAr": "أجود أنواع الأرز والعدس والفاصوليا",
+      "link": "/services",
+      "arrow": "assets/images/category/arrow.png",
+      "animationClass": "wow fadeInUp delay-0-3s",
+      "normalizedName": "legumes-and-grains"
+    },
+    {
+      "id": 2,
+      "icon": "assets/images/category/icon3.svg",
+      "title": "Canned Goods",
+      "titleTr": "Konserve Ürünler",
+      "titleAr": "المنتجات المعلبة",
+      "desc": "",
+      "descTr": "",
+      "descAr": "",
+      "link": "/services",
+      "arrow": "assets/images/category/arrow.png",
+      "animationClass": "wow fadeInUp delay-0-6s",
+      "normalizedName": "canned-goods"
+    },
+    {
+      "id": 3,
+      "icon": "assets/images/category/icon5.svg",
+      "title": "Oils",
+      "titleTr": "Yağlar",
+      "titleAr": "الزيوت",
+      "desc": "The finest selection of rice, lentils, and beans",
+      "descTr": "En iyi kaynaklardan elde edilen saf doğal yağlar",
+      "descAr": "زيوت طبيعية نقية مصدرها أفضل المصادر.",
+      "link": "/services",
+      "arrow": "assets/images/category/arrow.png",
+      "animationClass": "wow fadeInUp delay-0-9s",
+      "normalizedName": "oils"
+    },
+    {
+      "id": 4,
+      "icon": "assets/images/category/icon4.svg",
+      "title": "Essential Food Items",
+      "titleTr": "Temel Gıda Ürünleri",
+      "titleAr": "المنتجات الغذائية الأساسية",
+      "desc": "Carefully selected food products that meet the highest quality standards",
+      "descTr": "En yüksek kalite standartlarını karşılayan, özenle seçilmiş gıda ürünleri",
+      "descAr": "منتجات غذائية مختارة بعناية ومطابقة لأعلى معايير الجودة",
+      "link": "/services",
+      "arrow": "assets/images/category/arrow.png",
+      "animationClass": "wow fadeInUp delay-1-2s",
+      "normalizedName": "essential-food-items"
+    },
+    {
+      "id": 5,
+      "icon": "assets/images/category/icon1.svg",
+      "title": "Tahini and Halva Products",
+      "titleTr": "Tahin ve Helva Ürünleri",
+      "titleAr": "منتجات الطحينة والحلاوة",
+      "desc": "",
+      "descTr": "",
+      "descAr": "أجود أنواع الأرز والعدس والفاصوليا",
+      "link": "/services",
+      "arrow": "assets/images/category/arrow.png",
+      "animationClass": "wow fadeInUp delay-1-5s",
+      "normalizedName": "tahini-and-halva-products"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "title": "Cafes do prasil 50kg",
+      "titleTr": "Cafes do Prasil 50kg",
+      "titleAr": "قهوة كافيه دو براسيل 50 كجم",
+      "description": "Cafes do Prasil 50kg is a premium quality coffee blend, sourced from the finest coffee plantations in Brazil. Known for its rich, smooth flavor and aromatic profile, this coffee is perfect for both commercial and home use. Whether you’re brewing espresso, cappuccino, or just a classic coffee, Cafes do Prasil delivers exceptional taste in every cup.",
+      "descriptionTr": "Cafes do Prasil 50kg, Brezilya'nın en kaliteli kahve plantasyonlarından elde edilen premium bir kahve karışımıdır. Zengin, yumuşak tadı ve aromatik profiliyle bu kahve, hem ticari hem de ev kullanımına mükemmel bir uyum sağlar. Espresso, cappuccino veya klasik bir kahve hazırlarken, Cafes do Prasil her fincanda olağanüstü bir tat sunar.",
+      "descriptionAr": "قهوة كافيه دو براسيل 50 كجم هي مزيج قهوة عالي الجودة يتم الحصول عليه من أفضل مزارع القهوة في البرازيل. مع طعمه الغني والناعم وملفه العطري، تعد هذه القهوة مثالية للاستخدام التجاري والمنزلي. سواء كنت تحضر إسبرسو أو كابتشينو أو قهوة كلاسيكية، تقدم قهوة كافيه دو براسيل طعمًا استثنائيًا في كل فنجان.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 50kg</p><p><strong>Origin:</strong> Brazil</p><p><strong>Flavor Profile:</strong> Rich, smooth, aromatic</p><p><strong>Ideal Use:</strong> Espresso, cappuccino, drip coffee</p><p><strong>Packaging:</strong> Bulk (50kg)</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place to maintain freshness</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>Roast Level:</strong> Medium to Dark</p><p><strong>✔</strong> Bulk Packaging for Commercial Use</p><p><strong>✔</strong> Premium Quality Brazilian Coffee</p><p><strong>✔</strong> Sustainably Sourced</p><p><strong>✔</strong> Perfect for Cafes, Restaurants, and Coffee Enthusiasts</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 50kg</p><p><strong>Menşei:</strong> Brezilya</p><p><strong>Lezzet Profili:</strong> Zengin, pürüzsüz, aromatik</p><p><strong>İdeal Kullanım:</strong> Espresso, cappuccino, damla kahve</p><p><strong>Ambalaj:</strong> Toplu (50kg)</p><p><strong>Saklama Talimatları:</strong> Tazeliği korumak için serin, kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>Roast Seviyesi:</strong> Orta ve Koyu</p><p><strong>✔</strong> Ticari Kullanım İçin Toplu Ambalaj</p><p><strong>✔</strong> Premium Kalite Brezilya Kahvesi</p><p><strong>✔</strong> Sürdürülebilir Kaynaklardan</p><p><strong>✔</strong> Cafeler, Restoranlar ve Kahve Tutkunları İçin Mükemmel</p>",
+        "ar": "<p><strong>الوزن:</strong> 50 كجم</p><p><strong>المنشأ:</strong> البرازيل</p><p><strong>مذاق:</strong> غني، ناعم، وعطري</p><p><strong>الاستخدام المثالي:</strong> الإسبريسو، الكابتشينو، قهوة الترشيح</p><p><strong>التعبئة:</strong> بالجملة (50 كجم)</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف للحفاظ على الطزاجة</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>درجة التحميص:</strong> متوسطة إلى داكنة</p><p><strong>✔</strong> تعبئة بالجملة للاستخدام التجاري</p><p><strong>✔</strong> قهوة برازيلية عالية الجودة</p><p><strong>✔</strong> من مصادر مستدامة</p><p><strong>✔</strong> مثالي للمقاهي، المطاعم، وعشاق القهوة</p>"
+      },
+      "image": "assets/images/products/Cafes-do-prasil-50kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "categoryId": 5,
+      "title": "Extra Sesame Tahini 1kg",
+      "titleTr": "Extra Susam Tahini 1kg",
+      "titleAr": "طحينة السمسم الإضافية 1 كجم",
+      "description": "Our Extra Sesame Tahini 1kg is crafted from the finest quality sesame seeds, providing a rich and creamy texture. Ideal for spreading, dipping, or using in various recipes, this tahini is perfect for making hummus, salad dressings, or as an ingredient in sweets. Its smooth consistency and nutty flavor will elevate your dishes.",
+      "descriptionTr": "Extra Susam Tahini 1kg, en kaliteli susam tohumlarından yapılmış, zengin ve kremamsı bir dokuya sahiptir. Sürme, batırma veya çeşitli tariflerde kullanmak için mükemmel olan bu tahini, humus yapımında, salata soslarında veya tatlılarda kullanılmak için idealdir. Pürüzsüz kıvamı ve fındıksı tadı, yemeklerinizi zenginleştirecek.",
+      "descriptionAr": "طحينة السمسم الإضافية 1 كجم مصنوعة من أفضل بذور السمسم، مما يوفر قوامًا غنيًا وكريميًا. مثالية للدهن أو الغمس أو استخدامها في العديد من الوصفات، هذه الطحينة مثالية لصنع الحمص، صلصات السلطة أو كمكون في الحلويات. قوامها الناعم وطعمها الجوزي سيرتقي بأطباقك.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Main Ingredient:</strong> Sesame seeds</p><p><strong>Flavor:</strong> Nutty, rich, and creamy</p><p><strong>Uses:</strong> Hummus, dressings, desserts</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place; refrigerate after opening</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>✔</strong> Perfect for Dips & Dressings</p><p><strong>✔</strong> 100% Pure Sesame Seeds</p><p><strong>✔</strong> Versatile Ingredient for Various Recipes</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Ana Malzeme:</strong> Susam tohumları</p><p><strong>Lezzet:</strong> Fındıklı, zengin ve kremamsı</p><p><strong>İdeal Kullanım:</strong> Humus, soslar, tatlılar</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın; açtıktan sonra buzdolabında saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>✔</strong> Daldırmalıklar ve Soslar İçin Mükemmel</p><p><strong>✔</strong> %100 Saf Susam Tohumları</p><p><strong>✔</strong> Çeşitli Tarifler İçin Çok Yönlü Bir Malzeme</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>المكون الرئيسي:</strong> بذور السمسم</p><p><strong>المذاق:</strong> جوزي، غني وكريمي</p><p><strong>الاستخدامات:</strong> الحمص، الصلصات، الحلويات</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف؛ وضعه في الثلاجة بعد الفتح</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>✔</strong> مثالي للغمس والصلصات</p><p><strong>✔</strong> 100% بذور سمسم نقية</p><p><strong>✔</strong> مكون متعدد الاستخدامات للعديد من الوصفات</p>"
+      },
+      "image": "assets/images/products/extra-tahini.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "title": "Green Olives",
+      "titleTr": "Yeşil Zeytinler",
+      "titleAr": "زيتون أخضر",
+      "description": "Our Green Olives are handpicked at their peak, ensuring a crisp texture and fresh, vibrant flavor. These olives are ideal for salads, sandwiches, or enjoying on their own as a healthy snack. Packed in brine to preserve their quality, they bring a Mediterranean touch to your meals.",
+      "descriptionTr": "Yeşil zeytinlerimiz, zirveye ulaştıklarında elle toplanarak, çıtır dokusu ve taze, canlı tadı sağlanır. Bu zeytinler, salatalar, sandviçler veya kendi başlarına sağlıklı bir atıştırmalık olarak mükemmeldir. Kalitelerini korumak için tuzlu suya paketlenmişlerdir ve yemeklerinize Akdeniz dokunuşu katacaklardır.",
+      "descriptionAr": "زيتوننا الأخضر يتم جمعه يدويًا في ذروته، مما يضمن قوامًا هشًا وطعمًا طازجًا وحيويًا. هذه الزيتون مثالية للسلطات أو الساندويشات أو الاستمتاع بها كوجبة خفيفة صحية بمفردها. تم تعبئتها في محلول ملحي للحفاظ على جودتها، مما يضيف لمسة متوسطية إلى وجباتك.",
+      "additionalInformation": {
+        "en": "<p><strong>Variety:</strong> Green olives</p><p><strong>Packaging:</strong> In brine</p><p><strong>Flavor:</strong> Mild, slightly tangy</p><p><strong>Ideal Use:</strong> Salads, sandwiches, appetizers</p><p><strong>Storage Instructions:</strong> Keep in a cool, dry place; refrigerate after opening</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>✔</strong> Perfect for Mediterranean Dishes</p><p><strong>✔</strong> Fresh and Crisp Texture</p><p><strong>✔</strong> Ideal for Snacking or Cooking</p>",
+        "tr": "<p><strong>Çeşit:</strong> Yeşil zeytin</p><p><strong>Paketleme:</strong> Tuzlu su içinde</p><p><strong>Lezzet:</strong> Hafif, biraz ekşimsi</p><p><strong>İdeal Kullanım:</strong> Salatalar, sandviçler, mezeler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın; açıldıktan sonra buzdolabında muhafaza edin</p><p><strong>Raf Ömrü:</strong> Satın alındıktan sonra 12 ay içinde tüketilmesi önerilir</p><p><strong>✔</strong> Akdeniz Yemekleri İçin Mükemmel</p><p><strong>✔</strong> Taze ve Kıtır Doku</p><p><strong>✔</strong> Atıştırmalık veya Yemeklik Olarak İdeal</p>",
+        "ar": "<p><strong>النوع:</strong> زيتون أخضر</p><p><strong>التغليف:</strong> في المحلول الملحي</p><p><strong>الطعم:</strong> خفيف، قليل الحموضة</p><p><strong>الاستخدام المثالي:</strong> السلطات، السندويشات، المقبلات</p><p><strong>تعليمات التخزين:</strong> احفظه في مكان بارد وجاف؛ يفضل تبريده بعد الفتح</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهرًا من الشراء</p><p><strong>✔</strong> مثالي للأطباق المتوسطية</p><p><strong>✔</strong> قوام طازج ومقرمش</p><p><strong>✔</strong> مثالي للت-snacking أو الطهي</p>"
+      },
+      "image": "assets/images/products/green-olives.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "title": "Sunflower Oil 1L",
+      "titleTr": "Ayçiçek Yağı 1L",
+      "titleAr": "زيت دوار الشمس 1 لتر",
+      "description": "Sunflower Oil 1L is a high-quality cooking oil known for its light taste and versatility. Ideal for frying, sautéing, and salad dressings, this oil provides a neutral flavor that complements various dishes. Its high smoke point makes it perfect for high-temperature cooking.",
+      "descriptionTr": "Ayçiçek Yağı 1L, hafif tadı ve çok yönlülüğü ile tanınan yüksek kaliteli bir yemeklik yağdır. Kızartma, soteleme ve salata sosları için ideal olan bu yağ, çeşitli yemeklerle uyumlu nötr bir tat sunar. Yüksek duman noktası, yüksek sıcaklıkta pişirme için mükemmeldir.",
+      "descriptionAr": "زيت دوار الشمس 1 لتر هو زيت طبخ عالي الجودة معروف بطعمه الخفيف وتعدد استخداماته. مثالي للقلي، القلي السريع، وصلصات السلطة، يوفر هذا الزيت طعمًا محايدًا يكمل مجموعة متنوعة من الأطباق. نقطة تدخينه العالية تجعله مثاليًا للطهي عند درجات حرارة عالية.",
+      "additionalInformation": {
+        "en": "<p><strong>Volume:</strong> 1L</p><p><strong>Main Ingredient:</strong> Sunflower seeds</p><p><strong>Smoke Point:</strong> High</p><p><strong>Uses:</strong> Frying, sautéing, baking, salad dressings</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place, away from direct sunlight</p><p><strong>Shelf Life:</strong> Best consumed within 18 months of purchase</p><p><strong>✔</strong> Versatile for All Cooking Needs</p><p><strong>✔</strong> Ideal for Healthy Meals</p><p><strong>✔</strong> Light, Neutral Flavor</p>",
+        "tr": "<p><strong>Hacim:</strong> 1L</p><p><strong>Ana Malzeme:</strong> Ayçiçeği tohumu</p><p><strong>Isı Noktası:</strong> Yüksek</p><p><strong>Kullanım Alanları:</strong> Kızartma, soteleme, fırınlama, salata sosları</p><p><strong>Saklama Talimatları:</strong> Serin, kuru bir yerde, doğrudan güneş ışığından uzak tutun</p><p><strong>Raf Ömrü:</strong> Satın alındıktan sonra 18 ay içinde tüketilmesi önerilir</p><p><strong>✔</strong> Tüm Yemek İhtiyaçları İçin Kullanışlı</p><p><strong>✔</strong> Sağlıklı Yemekler İçin İdeal</p><p><strong>✔</strong> Hafif, Nötr Tat</p>",
+        "ar": "<p><strong>الحجم:</strong> 1 لتر</p><p><strong>المكون الرئيسي:</strong> بذور دوار الشمس</p><p><strong>نقطة الدخان:</strong> عالية</p><p><strong>الاستخدامات:</strong> القلي، التحميص، الخبز، تتبيلات السلطة</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة</p><p><strong>مدة الصلاحية:</strong> يُفضل استهلاكه خلال 18 شهرًا من الشراء</p><p><strong>✔</strong> متعدد الاستخدامات لجميع احتياجات الطهي</p><p><strong>✔</strong> مثالي للوجبات الصحية</p><p><strong>✔</strong> طعم خفيف ومحايد</p>"
+      },
+      "image": "assets/images/products/Sunflower-oil-1L.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "categoryId": 3,
+      "title": "Sunflower Oil 4L",
+      "titleTr": "Ayçiçek Yağı 4L",
+      "titleAr": "زيت دوار الشمس 4 لتر",
+      "description": "Sunflower Oil 4L offers excellent quality and value, ideal for both home kitchens and commercial use. It has a high smoke point, making it suitable for frying, grilling, and deep-frying. The oil’s light and neutral taste enhances the natural flavors of your food.",
+      "descriptionTr": "Ayçiçek Yağı 4L, mükemmel kalite ve değer sunar, ev mutfakları ve ticari kullanım için idealdir. Yüksek duman noktası sayesinde kızartma, ızgara ve derin kızartma için uygundur. Yağın hafif ve nötr tadı, yemeklerinizin doğal tatlarını zenginleştirir.",
+      "descriptionAr": "زيت دوار الشمس 4 لتر يقدم جودة وقيمة ممتازة، مثالي لاستخدامه في المطبخ المنزلي والتجاري. بفضل نقطة تدخينه العالية، فإنه مناسب للقلي، والشوي، والقلي العميق. طعمه الخفيف والمحايد يعزز النكهات الطبيعية لطعامك.",
+      "additionalInformation": {
+        "en": "<p><strong>Volume:</strong> 4L</p><p><strong>Main Ingredient:</strong> Sunflower seeds</p><p><strong>Smoke Point:</strong> High</p><p><strong>Uses:</strong> Frying, grilling, baking, deep-frying</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 18 months of purchase</p><p><strong>✔</strong> Bulk Packaging for Commercial Use</p><p><strong>✔</strong> Perfect for High-Temperature Cooking</p><p><strong>✔</strong> Neutral Flavor for Versatile Dishes</p>",
+        "tr": "<p><strong>Hacim:</strong> 4L</p><p><strong>Ana Malzeme:</strong> Ayçiçeği tohumu</p><p><strong>Isı Noktası:</strong> Yüksek</p><p><strong>Kullanım Alanları:</strong> Kızartma, ızgara, fırınlama, derin kızartma</p><p><strong>Saklama Talimatları:</strong> Serin, kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> Satın alındıktan sonra 18 ay içinde tüketilmesi önerilir</p><p><strong>✔</strong> Ticari Kullanım İçin Toplu Ambalaj</p><p><strong>✔</strong> Yüksek Sıcaklıkta Pişirme İçin Mükemmel</p><p><strong>✔</strong> Çeşitli Yemekler İçin Nötr Tat</p>",
+        "ar": "<p><strong>الحجم:</strong> 4 لتر</p><p><strong>المكون الرئيسي:</strong> بذور دوار الشمس</p><p><strong>نقطة الدخان:</strong> عالية</p><p><strong>الاستخدامات:</strong> القلي، الشواء، الخبز، القلي العميق</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يُفضل استهلاكه خلال 18 شهرًا من الشراء</p><p><strong>✔</strong> تعبئة بالجملة للاستخدام التجاري</p><p><strong>✔</strong> مثالي للطهي في درجات حرارة عالية</p><p><strong>✔</strong> طعم محايد لأطباق متنوعة</p>"
+      },
+      "image": "assets/images/products/Sunflower-oil-4L.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "title": "Red Split Lentils 1kg",
+      "titleTr": "Kırmızı Bölünmüş Mercimek 1kg",
+      "titleAr": "عدس أحمر مجروش 1 كجم",
+      "description": "Our Red Split Lentils are a nutritious and versatile pantry staple, known for their quick cooking time and soft texture. Perfect for soups, stews, curries, and traditional dishes, they provide a mild, slightly sweet flavor that enhances any meal. Packed with protein and fiber, these lentils are a great choice for a healthy and balanced diet.",
+      "descriptionTr": "Kırmızı Bölünmüş Mercimeklerimiz, hızlı pişme süresi ve yumuşak dokusuyla bilinen besleyici ve çok yönlü bir mutfak ürünüdür. Çorbalar, yahniler, köriler ve geleneksel yemekler için mükemmel olan bu mercimekler, hafif ve hafif tatlı bir lezzet sunar. Protein ve lif açısından zengin olan bu mercimekler, sağlıklı ve dengeli bir diyet için harika bir seçimdir.",
+      "descriptionAr": "عدسنا الأحمر المجروش هو عنصر أساسي مغذي ومتعدد الاستخدامات في المخزن، معروف بوقت طهيه السريع وقوامه الناعم. مثالي للحساء، اليخنات، الكاري، والأطباق التقليدية، حيث يوفر نكهة خفيفة وحلوة قليلاً تعزز أي وجبة. معبأ بالبروتين والألياف، يعد هذا العدس خيارًا رائعًا لنظام غذائي صحي ومتوازن.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Main Ingredient:</strong> 100% Red Split Lentils</p><p><strong>Flavor:</strong> Mild, slightly sweet, and nutty</p><p><strong>Uses:</strong> Soups, curries, stews, and salads</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>💪</strong> High in Protein & Fiber</p><p><strong>⏳</strong> Quick & Easy to Cook</p><p><strong>🥗</strong> Perfect for Healthy & Vegan Meals</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Ana Malzeme:</strong> %100 Kırmızı Bölünmüş Mercimek</p><p><strong>Lezzet:</strong> Hafif, hafif tatlı ve fındıksı</p><p><strong>Kullanım Alanları:</strong> Çorbalar, köriler, yahniler ve salatalar</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>💪</strong> Yüksek Protein ve Lif İçeriği</p><p><strong>⏳</strong> Hızlı ve Kolay Pişer</p><p><strong>🥗</strong> Sağlıklı ve Vegan Yemekler İçin Mükemmel</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>المكون الرئيسي:</strong> 100% عدس أحمر مجروش</p><p><strong>النكهة:</strong> خفيفة، حلوة قليلاً، وجوزية</p><p><strong>الاستخدامات:</strong> الحساء، الكاري، اليخنات، والسلطات</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>💪</strong> غني بالبروتين والألياف</p><p><strong>⏳</strong> سريع وسهل الطهي</p><p><strong>🥗</strong> مثالي للوجبات الصحية والنباتية</p>"
+      },
+      "image": "assets/images/products/red-lentils1kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "title": "Red Split Lentils 5kg",
+      "titleTr": "Kırmızı Bölünmüş Mercimek 5kg",
+      "titleAr": "عدس أحمر مجروش 5 كجم",
+      "description": "Our 5kg pack of Red Split Lentils is ideal for bulk cooking, restaurants, and large families. These premium-quality lentils cook quickly, making them a convenient and nutritious ingredient for a variety of dishes. Their rich protein and fiber content make them an excellent addition to a healthy diet.",
+      "descriptionTr": "5kg'lık Kırmızı Bölünmüş Mercimek paketimiz, toplu yemek pişirme, restoranlar ve büyük aileler için idealdir. Bu yüksek kaliteli mercimekler hızlı pişer, çeşitli yemekler için pratik ve besleyici bir malzeme haline getirir. Zengin protein ve lif içeriği ile sağlıklı bir diyet için mükemmel bir seçimdir.",
+      "descriptionAr": "عبوة العدس الأحمر المجروش 5 كجم مثالية للطهي بكميات كبيرة، المطاعم، والعائلات الكبيرة. يتميز هذا العدس عالي الجودة بسرعة الطهي، مما يجعله مكونًا سريعًا ومغذيًا لمجموعة متنوعة من الأطباق. محتواه الغني بالبروتين والألياف يجعله إضافة ممتازة لنظام غذائي صحي.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 5kg</p><p><strong>Main Ingredient:</strong> 100% Red Split Lentils</p><p><strong>Flavor:</strong> Mild, slightly sweet, and nutty</p><p><strong>Uses:</strong> Bulk cooking, meal prep, restaurants, and catering</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>💪</strong> Great for Large Families & Restaurants</p><p><strong>⏳</strong> Fast Cooking & No Soaking Needed</p><p><strong>🥗</strong> Rich in Nutrients & Perfect for Various Recipes</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 5kg</p><p><strong>Ana Malzeme:</strong> %100 Kırmızı Bölünmüş Mercimek</p><p><strong>Lezzet:</strong> Hafif, hafif tatlı ve fındıksı</p><p><strong>Kullanım Alanları:</strong> Toplu yemek pişirme, yemek hazırlama, restoranlar ve catering</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>💪</strong> Büyük Aileler ve Restoranlar İçin Harika</p><p><strong>⏳</strong> Hızlı Pişer ve Islatmaya Gerek Yok</p><p><strong>🥗</strong> Zengin Besin İçeriği ve Çeşitli Tarifler İçin Mükemmel</p>",
+        "ar": "<p><strong>الوزن:</strong> 5 كجم</p><p><strong>المكون الرئيسي:</strong> 100% عدس أحمر مجروش</p><p><strong>النكهة:</strong> خفيفة، حلوة قليلاً، وجوزية</p><p><strong>الاستخدامات:</strong> الطهي بكميات كبيرة، تحضير الوجبات، المطاعم، والتقديم</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>💪</strong> مثالي للعائلات الكبيرة والمطاعم</p><p><strong>⏳</strong> سريع الطهي ولا يحتاج إلى نقع</p><p><strong>🥗</strong> غني بالعناصر الغذائية ومثالي للوصفات المتنوعة</p>"
+      },
+      "image": "assets/images/products/red-lentils5kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "title": "Fine Bulgur 1kg",
+      "titleTr": "İnce Bulgur 1kg",
+      "titleAr": "برغل ناعم 1 كجم",
+      "description": "Our Fine Bulgur is a wholesome and nutritious grain made from high-quality wheat. With its light and fluffy texture, it is perfect for preparing dishes like tabbouleh, kibbeh, and pilafs. Naturally rich in fiber and essential nutrients, fine bulgur is an excellent choice for a balanced diet.",
+      "descriptionTr": "İnce Bulgurumuz, yüksek kaliteli buğdaydan yapılan sağlıklı ve besleyici bir tahıldır. Hafif ve kabarık dokusuyla, tabbouleh, kibbeh ve pilav gibi yemeklerin hazırlanması için mükemmeldir. Doğal olarak lif ve önemli besinler açısından zengin olan ince bulgur, dengeli bir diyet için mükemmel bir seçimdir.",
+      "descriptionAr": "برغلنا الناعم هو حبوب صحية ومغذية مصنوعة من القمح عالي الجودة. بفضل قوامه الخفيف والهش، فهو مثالي لتحضير أطباق مثل التبولة والكبة والبرغل. غني طبيعيًا بالألياف والعناصر الغذائية الأساسية، يعتبر البرغل الناعم خيارًا ممتازًا لنظام غذائي متوازن.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Main Ingredient:</strong> 100% Whole Wheat</p><p><strong>Texture:</strong> Light and fluffy when cooked</p><p><strong>Uses:</strong> Tabbouleh, kibbeh, soups, and stuffing</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>🌾</strong> 100% Whole Grain</p><p><strong>🥗</strong> Perfect for Mediterranean Dishes</p><p><strong>💪</strong> Rich in Fiber & Nutrients</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Ana Malzeme:</strong> %100 Tam Buğday</p><p><strong>Dokusu:</strong> Pişirildiğinde hafif ve kabarık</p><p><strong>Kullanım Alanları:</strong> Tabbouleh, kibbeh, çorbalar ve doldurma</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>🌾</strong> %100 Tam Tahıl</p><p><strong>🥗</strong> Akdeniz Yemekleri İçin Mükemmel</p><p><strong>💪</strong> Zengin Lif ve Besin İçeriği</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>المكون الرئيسي:</strong> 100% قمح كامل</p><p><strong>الملمس:</strong> خفيف وهش عند الطهي</p><p><strong>الاستخدامات:</strong> التبولة، الكبة، الحساء، والحشوات</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>🌾</strong> 100% حبوب كاملة</p><p><strong>🥗</strong> مثالي للأطباق المتوسطية</p><p><strong>💪</strong> غني بالألياف والعناصر الغذائية</p>"
+      },
+      "image": "assets/images/products/Fine-Bulgur1kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "title": "Fine Bulgur 5kg",
+      "titleTr": "İnce Bulgur 5kg",
+      "titleAr": "برغل ناعم 5 كجم",
+      "description": "Our 5kg pack of Fine Bulgur is the ideal choice for restaurants, catering services, and bulk home cooking. This finely milled wheat grain is known for its quick preparation and versatility in Middle Eastern and Mediterranean cuisine. It is a great source of fiber, offering both nutrition and great taste.",
+      "descriptionTr": "5 kg'lık İnce Bulgur paketimiz, restoranlar, catering hizmetleri ve büyük ev yemekleri için ideal bir seçimdir. Bu ince öğütülmüş buğday tahılı, Orta Doğu ve Akdeniz mutfaklarında hızlı hazırlanışı ve çok yönlülüğü ile bilinir. Lif açısından zengin olup, besin değeri ve harika tat sunar.",
+      "descriptionAr": "عبوة برغل ناعم 5 كجم هي الخيار المثالي للمطاعم وخدمات تقديم الطعام والطهي المنزلي بكميات كبيرة. هذا الحبوب المطحونة ناعماً معروفة بسرعتها في التحضير ومرونتها في المأكولات الشرق أوسطية والمتوسطية. إنه مصدر رائع للألياف، ويقدم التغذية والطعم الرائع.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 5kg</p><p><strong>Main Ingredient:</strong> 100% Whole Wheat</p><p><strong>Texture:</strong> Fine and light</p><p><strong>Uses:</strong> Tabbouleh, kibbeh, soups, and grain-based dishes</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>🌾</strong> Perfect for Restaurants & Large Families</p><p><strong>🥗</strong> Essential for Middle Eastern Cuisine</p><p><strong>💪</strong> High in Fiber & Nutrients</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 5kg</p><p><strong>Ana Malzeme:</strong> %100 Tam Buğday</p><p><strong>Doku:</strong> İnce ve hafif</p><p><strong>Kullanım Alanları:</strong> Tabbule, kibbe, çorbalar ve tahıl bazlı yemekler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>🌾</strong> Restoranlar ve Büyük Aileler İçin Mükemmel</p><p><strong>🥗</strong> Orta Doğu Mutfağı İçin Vazgeçilmez</p><p><strong>💪</strong> Yüksek Lif ve Besin Değeri</p>",
+        "ar": "<p><strong>الوزن:</strong> 5 كجم</p><p><strong>المكون الرئيسي:</strong> 100% قمح كامل</p><p><strong>النسيج:</strong> ناعم وخفيف</p><p><strong>الاستخدامات:</strong> تبولة، كبة، حساء، وأطباق تحتوي على الحبوب</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>🌾</strong> مثالي للمطاعم والعائلات الكبيرة</p><p><strong>🥗</strong> أساسي للمطبخ الشرقي</p><p><strong>💪</strong> غني بالألياف والمغذيات</p>"
+      },
+      "image": "assets/images/products/Fine-Bulgur-5kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "title": "Coarse Bulgur 1kg",
+      "titleTr": "Kaba Bulgur 1kg",
+      "titleAr": "برغل خشن 1 كجم",
+      "description": "Our Coarse Bulgur is a hearty and nutritious grain, perfect for preparing pilafs, stews, and traditional Middle Eastern dishes. With its rich, nutty flavor and satisfying texture, it is a great alternative to rice or pasta. Packed with fiber and essential nutrients, it supports a balanced and healthy diet.",
+      "descriptionTr": "Kaba Bulgur, pilavlar, yahniler ve geleneksel Orta Doğu yemeklerini hazırlamak için mükemmel olan besleyici ve doyurucu bir tahıldır. Zengin, fındıksı lezzeti ve doyurucu dokusuyla, pirinç veya makarna yerine harika bir alternatiftir. Lif ve besin açısından zengin olan bu bulgur, dengeli ve sağlıklı bir diyeti destekler.",
+      "descriptionAr": "برغلنا الخشن هو حبة مغذية ودسمة، مثالية لتحضير الأرز pilaf، اليخنات، والأطباق التقليدية في منطقة الشرق الأوسط. مع نكهته الغنية والجوزية وملمسه المرضي، يعتبر بديلاً رائعاً للأرز أو المعكرونة. مليء بالألياف والمغذيات الأساسية، يدعم نظامًا غذائيًا متوازنًا وصحيًا.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Main Ingredient:</strong> 100% Whole Wheat</p><p><strong>Texture:</strong> Hearty and slightly chewy</p><p><strong>Uses:</strong> Pilafs, stews, grain bowls, and side dishes</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>🌾</strong> 100% Natural & Whole Grain</p><p><strong>💪</strong> Rich in Fiber & Protein</p><p><strong>🥗</strong> Great for Hearty & Healthy Meals</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Ana Malzeme:</strong> %100 Tam Buğday</p><p><strong>Doku:</strong> Doyurucu ve hafif çiğnenebilir</p><p><strong>Kullanım Alanları:</strong> Pilavlar, yahniler, tahıl kasesi ve yan yemekler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>🌾</strong> %100 Doğal ve Tam Tahıl</p><p><strong>💪</strong> Zengin Lif ve Protein İçeriği</p><p><strong>🥗</strong> Doyurucu ve Sağlıklı Yemekler İçin Mükemmel</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>المكون الرئيسي:</strong> 100% قمح كامل</p><p><strong>النسيج:</strong> متين ويميل إلى أن يكون لزجًا قليلاً</p><p><strong>الاستخدامات:</strong> الأرز pilaf، اليخنات، أطباق الحبوب، والأطباق الجانبية</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>🌾</strong> 100% حبوب طبيعية وكاملة</p><p><strong>💪</strong> غني بالألياف والبروتين</p><p><strong>🥗</strong> مثالي للوجبات الدسمة والصحية</p>"
+      },
+      "image": "assets/images/products/Coarse-Bulgur1kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "title": "Coarse Bulgur 5kg",
+      "titleTr": "Kaba Bulgur 5kg",
+      "titleAr": "برغل خشن 5 كجم",
+      "description": "Our 5kg pack of Coarse Bulgur is ideal for bulk cooking, restaurants, and catering. This wholesome grain is a staple in many traditional dishes, offering a rich texture and nutty flavor. It’s perfect for pilafs, grain-based salads, and healthy meal prep.",
+      "descriptionTr": "5 kg'lık Kaba Bulgur paketimiz, büyük yemekler için, restoranlar ve catering hizmetleri için idealdir. Bu besleyici tahıl, birçok geleneksel yemeğin temel bir bileşenidir ve zengin dokusu ve fındıksı lezzeti ile dikkat çeker. Pilavlar, tahıl bazlı salatalar ve sağlıklı yemek hazırlığı için mükemmeldir.",
+      "descriptionAr": "عبوة برغل خشن 5 كجم مثالية للطهي بكميات كبيرة، للمطاعم وخدمات تقديم الطعام. هذه الحبوب المغذية هي عنصر أساسي في العديد من الأطباق التقليدية، حيث تقدم نسيجًا غنيًا ونكهة جوزية. إنها مثالية للأرز pilaf، سلطات الحبوب، وتحضير الوجبات الصحية.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 5kg</p><p><strong>Main Ingredient:</strong> 100% Whole Wheat</p><p><strong>Texture:</strong> Hearty and slightly chewy</p><p><strong>Uses:</strong> Pilafs, casseroles, grain bowls, and traditional dishes</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>🌾</strong> Ideal for Restaurants & Bulk Cooking</p><p><strong>💪</strong> Packed with Fiber & Nutrients</p><p><strong>🥗</strong> Perfect for Hearty & Healthy Dishes</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 5kg</p><p><strong>Ana Malzeme:</strong> %100 Tam Buğday</p><p><strong>Doku:</strong> Doyurucu ve hafif çiğnenebilir</p><p><strong>Kullanım Alanları:</strong> Pilavlar, kısır, tahıl kasesi ve geleneksel yemekler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç 12 ay içinde tüketilmelidir</p><p><strong>🌾</strong> Restoranlar ve Büyük Yemekler İçin İdeal</p><p><strong>💪</strong> Lif ve Besin Dolu</p><p><strong>🥗</strong> Doyurucu ve Sağlıklı Yemekler İçin Mükemmel</p>",
+        "ar": "<p><strong>الوزن:</strong> 5 كجم</p><p><strong>المكون الرئيسي:</strong> 100% قمح كامل</p><p><strong>النسيج:</strong> متين ويميل إلى أن يكون لزجًا قليلاً</p><p><strong>الاستخدامات:</strong> الأرز pilaf، طواجن، أطباق الحبوب، والأطباق التقليدية</p><p><strong>تعليمات التخزين:</strong> يجب تخزينه في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>🌾</strong> مثالي للمطاعم والطهي بكميات كبيرة</p><p><strong>💪</strong> غني بالألياف والمغذيات</p><p><strong>🥗</strong> مثالي للأطباق الدسمة والصحية</p>"
+      },
+      "image": "assets/images/products/Coarse-Bulgur5kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "title": "White Sugar 1kg",
+      "titleTr": "Beyaz Şeker 1kg",
+      "titleAr": "سكر أبيض 1 كجم",
+      "description": "Our White Sugar 1kg is refined to perfection, offering a pure and clean sweetness. It is ideal for baking, sweetening beverages, or enhancing the flavor of your favorite dishes. This sugar dissolves easily and brings the perfect balance of sweetness to every recipe.",
+      "descriptionTr": "Beyaz Şekerimiz 1 kg, mükemmel şekilde rafine edilerek saf ve temiz bir tatlılık sunar. Hamur işleri, içecekleri tatlandırma veya yemeklerin lezzetini artırma için idealdir. Kolayca çözünür ve her tarif için mükemmel tatlılık dengesini sağlar.",
+      "descriptionAr": "يتم تكرير السكر الأبيض 1 كجم لدينا إلى درجة الكمال، مما يوفر حلاوة نقية ونظيفة. إنه مثالي للخبز، تحلية المشروبات، أو تحسين نكهة أطباقك المفضلة. يذوب بسهولة ويضيف التوازن المثالي للحلاوة إلى كل وصفة.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Type:</strong> Refined white sugar</p><p><strong>Uses:</strong> Baking, sweetening drinks, cooking</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Indefinite if stored properly</p><p><strong>✔</strong> Perfect for Baking and Cooking</p><p><strong>✔</strong> Ideal for Sweetening Beverages</p><p><strong>✔</strong> Refined and Pure Sweetness</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Tür:</strong> Rafine beyaz şeker</p><p><strong>Kullanım Alanları:</strong> Hamur işleri, içecekleri tatlandırma, yemek pişirme</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> Uygun saklama koşullarında süresiz</p><p><strong>✔</strong> Hamur İşleri ve Yemekler İçin Mükemmel</p><p><strong>✔</strong> İçecekleri Tatlandırmak İçin İdeal</p><p><strong>✔</strong> Rafine ve Saf Tatlılık</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>النوع:</strong> سكر أبيض مكرر</p><p><strong>الاستخدامات:</strong> الخبز، تحلية المشروبات، الطهي</p><p><strong>تعليمات التخزين:</strong> يخزن في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> غير محددة إذا تم تخزينه بشكل صحيح</p><p><strong>✔</strong> مثالي للخبز والطهي</p><p><strong>✔</strong> مثالي لتحلية المشروبات</p><p><strong>✔</strong> حلاوة نقية ومكررة</p>"
+      },
+      "image": "assets/images/products/white-suger-1kg.png",
+      "link": "/product-details",
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "title": "Basmati Rice 1kg",
+      "titleTr": "Basmati Pirinci 1kg",
+      "titleAr": "أرز بسمتي 1 كجم",
+      "description": "Our Basmati Rice 1kg is a premium quality rice known for its long grains and delicate aroma. With its fluffy texture and fragrant flavor, this rice is perfect for pilafs, curries, or as a side dish. Its versatile nature makes it a staple in kitchens worldwide.",
+      "descriptionTr": "Basmati Pirincimiz 1kg, uzun taneleri ve zarif aromasıyla bilinen yüksek kaliteli bir pirinçtir. Hafif ve kabarık dokusuyla, pilavlar, köriler veya yan yemekler için mükemmeldir. Çok yönlü yapısı sayesinde dünya mutfaklarında vazgeçilmez bir üründür.",
+      "descriptionAr": "أرز بسمتي 1 كجم لدينا هو أرز عالي الجودة معروف بحبوبه الطويلة ورائحته العطرة. بقوامه الخفيف ونكهته العطرة، يعد مثاليًا لتحضير البرياني، الكاري، أو كطبق جانبي. طبيعته متعددة الاستخدامات تجعله عنصرًا أساسيًا في المطابخ حول العالم.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 1kg</p><p><strong>Variety:</strong> Basmati rice</p><p><strong>Grain Type:</strong> Long, slender</p><p><strong>Uses:</strong> Pilafs, curries, side dishes</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>✔</strong> Fragrant & Fluffy Texture</p><p><strong>✔</strong> Perfect for Middle Eastern & Indian Dishes</p><p><strong>✔</strong> Premium Quality Rice</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 1kg</p><p><strong>Çeşit:</strong> Basmati pirinci</p><p><strong>Tane Tipi:</strong> Uzun, ince</p><p><strong>Kullanım Alanları:</strong> Pilavlar, köriler, yan yemekler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç için 12 ay içinde tüketilmelidir</p><p><strong>✔</strong> Aromatik ve Kabarmış Doku</p><p><strong>✔</strong> Orta Doğu ve Hint Yemekleri İçin Mükemmel</p><p><strong>✔</strong> Premium Kalitede Pirinç</p>",
+        "ar": "<p><strong>الوزن:</strong> 1 كجم</p><p><strong>النوع:</strong> أرز بسمتي</p><p><strong>نوع الحبة:</strong> طويلة ورفيعة</p><p><strong>الاستخدامات:</strong> البرياني، الكاري، الأطباق الجانبية</p><p><strong>تعليمات التخزين:</strong> يخزن في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>✔</strong> قوام خفيف ورائحة زكية</p><p><strong>✔</strong> مثالي للأطباق الشرقية والهندية</p><p><strong>✔</strong> أرز عالي الجودة</p>"
+      },
+      "image": "assets/images/products/basmati-rice1kg.png",
+      "link": "/product-details",
+      "rating": 5
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "title": "Basmati Rice 5kg",
+      "titleTr": "Basmati Pirinci 5kg",
+      "titleAr": "أرز بسمتي 5 كجم",
+      "description": "Our Basmati Rice 1kg is a premium quality rice known for its long grains and delicate aroma. With its fluffy texture and fragrant flavor, this rice is perfect for pilafs, curries, or as a side dish. Its versatile nature makes it a staple in kitchens worldwide.",
+      "descriptionTr": "Basmati Pirincimiz 5kg, uzun taneleri ve zarif aromasıyla bilinen yüksek kaliteli bir pirinçtir. Hafif ve kabarık dokusuyla, pilavlar, köriler veya yan yemekler için mükemmeldir. Çok yönlü yapısı sayesinde dünya mutfaklarında vazgeçilmez bir üründür.",
+      "descriptionAr": "أرز بسمتي 1 كجم لدينا هو أرز عالي الجودة معروف بحبوبه الطويلة ورائحته العطرة. بقوامه الخفيف ونكهته العطرة، يعد مثاليًا لتحضير البرياني، الكاري، أو كطبق جانبي. طبيعته متعددة الاستخدامات تجعله عنصرًا أساسيًا في المطابخ حول العالم.",
+      "additionalInformation": {
+        "en": "<p><strong>Weight:</strong> 5kg</p><p><strong>Variety:</strong> Basmati rice</p><p><strong>Grain Type:</strong> Long, slender</p><p><strong>Uses:</strong> Pilafs, curries, side dishes</p><p><strong>Storage Instructions:</strong> Store in a cool, dry place</p><p><strong>Shelf Life:</strong> Best consumed within 12 months of purchase</p><p><strong>✔</strong> Fragrant & Fluffy Texture</p><p><strong>✔</strong> Perfect for Middle Eastern & Indian Dishes</p><p><strong>✔</strong> Premium Quality Rice</p>",
+        "tr": "<p><strong>Ağırlık:</strong> 5kg</p><p><strong>Çeşit:</strong> Basmati pirinci</p><p><strong>Tane Tipi:</strong> Uzun, ince</p><p><strong>Kullanım Alanları:</strong> Pilavlar, köriler, yan yemekler</p><p><strong>Saklama Talimatları:</strong> Serin ve kuru bir yerde saklayın</p><p><strong>Raf Ömrü:</strong> En iyi sonuç için 12 ay içinde tüketilmelidir</p><p><strong>✔</strong> Aromatik ve Kabarmış Doku</p><p><strong>✔</strong> Orta Doğu ve Hint Yemekleri İçin Mükemmel</p><p><strong>✔</strong> Premium Kalitede Pirinç</p>",
+        "ar": "<p><strong>الوزن:</strong> 5 كجم</p><p><strong>النوع:</strong> أرز بسمتي</p><p><strong>نوع الحبة:</strong> طويلة ورفيعة</p><p><strong>الاستخدامات:</strong> البرياني، الكاري، الأطباق الجانبية</p><p><strong>تعليمات التخزين:</strong> يخزن في مكان بارد وجاف</p><p><strong>مدة الصلاحية:</strong> يفضل استهلاكه خلال 12 شهراً من الشراء</p><p><strong>✔</strong> قوام خفيف ورائحة زكية</p><p><strong>✔</strong> مثالي للأطباق الشرقية والهندية</p><p><strong>✔</strong> أرز عالي الجودة</p>"
+      },
+      "image": "assets/images/products/basmati-rice5kg.png",
+      "link": "/product-details",
+      "rating": 5
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": " Discover the Rich, Nutritious Flavor of Extra Sesame Tahini",
+      "titleTr": "Ekstra Susam Tahininin Zengin ve Besleyici Lezzetini Keşfedin",
+      "titleAr": "اكتشف النكهة الغنية والمغذية لطحينة السمسم الفاخرة",
+      "description": "<p>Sesame tahini is a versatile and nutritious ingredient that brings a rich, creamy texture to your dishes. Whether you’re creating a classic hummus, making salad dressings, or even baking delicious sweets, tahini adds a deep, nutty flavor that enhances the taste of any recipe.</p><p>Packed with healthy fats, calcium, and magnesium, sesame tahini is not just a flavorful addition to your meals but also a healthy one. Incorporating tahini into your diet provides a range of benefits, making it an ideal choice for those seeking a nourishing, plant-based option.</p><p>Elevate your cooking with tahini, and discover how this Middle Eastern staple can transform your meals, adding both flavor and nutritional value.</p><h3>Why You’ll Love It:</h3><ul><li>A smooth, creamy texture that’s perfect for cooking, baking, and dressings.</li><li>Rich in essential minerals and healthy fats.</li><li>A versatile ingredient for various cuisines.</li></ul>",
+      "descriptionTr": "<p>Susam tahini, yemeklerinize zengin, kremamsı bir doku katan çok yönlü ve besleyici bir malzemedir. Klasik humus yaparken, salata sosları hazırlarken veya tatlılar pişirirken, tahini her tarife derin, fındıklı bir tat katar.</p><p>Sağlıklı yağlar, kalsiyum ve magnezyum açısından zengin olan susam tahini, sadece yemeklerinize lezzetli bir katkı sağlamakla kalmaz, aynı zamanda sağlıklı bir tercihtir. Diyetinize tahini dahil etmek, besleyici ve bitki bazlı bir seçenek arayanlar için birçok fayda sağlar.</p><p>Yemeklerinizi tahiniyle zenginleştirin ve bu Orta Doğu klasiğinin yemeklerinizi nasıl dönüştürebileceğini keşfedin, hem lezzet hem de besin değeri ekleyin.</p><h3>Neden Seveceksiniz:</h3><ul><li>Yemek pişirme, tatlı yapma ve soslarda kullanmak için mükemmel olan pürüzsüz, kremamsı doku.</li><li>Önemli mineraller ve sağlıklı yağlar açısından zengin.</li><li>Çeşitli mutfaklar için çok yönlü bir malzeme.</li></ul>",
+      "descriptionAr": "<p>طحينة السمسم هي مكون متعدد الاستخدامات ومغذي يضيف قوامًا غنيًا وكريميًا إلى أطباقك. سواء كنت تحضر حمصًا كلاسيكيًا، أو تعد صلصات للسلطات، أو حتى تخبز الحلويات اللذيذة، فإن الطحينة تضيف نكهة جوزية عميقة تعزز طعم أي وصفة.</p><p>محملة بالدهون الصحية والكالسيوم والمغنيسيوم، فإن طحينة السمسم ليست مجرد إضافة لذيذة لوجباتك، بل هي أيضًا صحية. إن إدخال الطحينة في نظامك الغذائي يوفر مجموعة من الفوائد، مما يجعلها خيارًا مثاليًا لأولئك الذين يبحثون عن خيار نباتي مغذي.</p><p>رفع طعامك مع الطحينة، واكتشف كيف يمكن لهذا المكون الأساسي من الشرق الأوسط تحويل وجباتك، مما يضيف النكهة والقيمة الغذائية.</p><h3>لماذا ستحبها:</h3><ul><li>قوام ناعم وكريمي مثالي للطهي، والخبز، والصلصات.</li><li>غني بالمعادن الأساسية والدهون الصحية.</li><li>مكون متعدد الاستخدامات لعدة مطابخ.</li></ul>",
+      "image": "assets/images/news/tahini-Blog.png",
+      "date": "January 10, 2025",
+      "link": "/blog-details",
+      "related": [3, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "title": "Enjoy the Fresh and Zesty Taste of Green Olives",
+      "titleTr": "Yeşil Zeytinin Taze ve Ferah Tadının Keyfini Çıkarın",
+      "titleAr": "استمتع بالمذاق الطازج والحامض للزيتون الأخضر",
+      "description": "<p>Green olives are the ultimate addition to any meal, bringing a burst of freshness and a zesty flavor that pairs beautifully with countless dishes. Whether enjoyed on their own as a snack, added to salads, or included in Mediterranean-inspired recipes, green olives offer both taste and nutrition.</p><p>Renowned for their heart-healthy fats and antioxidants, green olives are an excellent choice for anyone looking to enhance their diet with a naturally flavorful ingredient. Their mild tangy taste makes them an ideal choice for those who appreciate a light yet rich flavor in their meals.</p><p>Add green olives to your pantry and explore the endless ways this Mediterranean delicacy can elevate your everyday meals.</p><h3>Why You’ll Love It:</h3><ul><li>A fresh, zesty flavor that complements any dish.</li><li>Packed with heart-healthy fats and antioxidants.</li><li>Perfect for snacking or enhancing your recipes.</li></ul>",
+      "descriptionTr": "<p>Yeşil zeytin, her yemeğe taze bir patlama ve ekşi bir tat katan mükemmel bir eklemedir. İster tek başına atıştırmalık olarak, ister salatalara eklenmiş, ister Akdeniz esinli tariflerde kullanılmış olsun, yeşil zeytin hem lezzet hem de besin sağlar.</p><p>Kalp dostu yağlar ve antioksidanlar açısından ünlü olan yeşil zeytin, doğal olarak lezzetli bir malzeme ile diyetinizi geliştirmek isteyenler için mükemmel bir seçimdir. Hafif ekşi tadı, yemeklerinizde hafif ama zengin bir tat arayanlar için ideal bir tercihtir.</p><p>Yeşil zeytinleri kilerinize ekleyin ve bu Akdeniz lezzetinin günlük yemeklerinizi nasıl zenginleştirebileceğini keşfedin.</p><h3>Neden Seveceksiniz:</h3><ul><li>Her yemeği tamamlayan taze, ekşi bir tat.</li><li>Kalp dostu yağlar ve antioksidanlarla dolu.</li><li>Atıştırmalık olarak veya tariflerinizi zenginleştirmek için mükemmel.</li></ul>",
+      "descriptionAr": "<p>الزيتون الأخضر هو الإضافة المثالية لأي وجبة، حيث يجلب انفجارًا من الطزاجة ونكهة لاذعة تتناسب بشكل رائع مع العديد من الأطباق. سواء تم الاستمتاع بها بمفردها كوجبة خفيفة، أو إضافتها إلى السلطات، أو تضمينها في الوصفات المستوحاة من المطبخ المتوسطي، يوفر الزيتون الأخضر كل من النكهة والتغذية.</p><p>يشتهر الزيتون الأخضر بدهونه الصحية للقلب ومضادات الأكسدة، وهو خيار ممتاز لأي شخص يتطلع إلى تعزيز نظامه الغذائي بمكون طبيعي مليء بالنكهة. مذاقها اللاذع المعتدل يجعلها الخيار المثالي لأولئك الذين يقدرون النكهة الخفيفة والغنية في وجباتهم.</p><p>أضف الزيتون الأخضر إلى مخزنك واكتشف الطرق التي يمكن أن يرفع بها هذا الطعام المتوسطي وجباتك اليومية.</p><h3>لماذا ستحبها:</h3><ul><li>نكهة طازجة ولاذعة تكمل أي طبق.</li><li>مليء بالدهون الصحية للقلب ومضادات الأكسدة.</li><li>مثالي للوجبات الخفيفة أو لتحسين وصفاتك.</li></ul>",
+      "image": "assets/images/news/Olive-Blog.png",
+      "date": "January 15, 2025",
+      "link": "/blog-details",
+      "related": [1, 3, 4, 5]
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "title": "Unlock the Health Benefits and Versatility of Sunflower Oil",
+      "titleTr": "Ayçiçek Yağının Sağlık Faydalarını ve Çok Yönlülüğünü Keşfedin",
+      "titleAr": "اكتشف فوائد زيت عباد الشمس الصحية وتعدد استخداماته",
+      "description": "<p>Sunflower oil is the go-to choice for anyone seeking a healthy, versatile cooking oil that enhances the natural flavors of their meals. With its light taste and high smoke point, sunflower oil is perfect for frying, sautéing, baking, and even making dressings.</p><p>Rich in unsaturated fats and vitamin E, sunflower oil is an excellent option for those looking to make healthier choices without compromising on flavor. Its neutral taste makes it an ideal addition to a wide variety of dishes, from crispy fried foods to refreshing salads.</p><p>Sunflower oil provides the perfect balance of health and versatility, making it an essential ingredient in any kitchen.</p><h3>Why You’ll Love It:</h3><ul><li>Light and neutral flavor that enhances your meals.</li><li>Ideal for high-heat cooking like frying and sautéing.</li><li>Rich in healthy fats and vitamin E for a nutritious cooking option.</li></ul>",
+      "descriptionTr": "<p>Ayçiçek yağı, yemeklerinizin doğal tatlarını güçlendiren sağlıklı ve çok yönlü bir yemek yağı arayan herkes için ideal bir tercihtir. Hafif tadı ve yüksek dumanlanma noktası ile ayçiçek yağı, kızartma, soteleme, fırınlama ve hatta sos yapma için mükemmeldir.</p><p>Doğal olmayan yağlar ve E vitamini bakımından zengin olan ayçiçek yağı, sağlıklı seçimler yapmak isteyenler için harika bir seçenektir. Nötr tadı, onu çıtır kızarmış yiyeceklerden ferahlatıcı salatalara kadar geniş bir yelpazede kullanmak için ideal bir hale getirir.</p><p>Ayçiçek yağı, sağlık ve çok yönlülük arasında mükemmel bir denge sunarak her mutfakta vazgeçilmez bir bileşen yapar.</p><h3>Neden Seveceksiniz:</h3><ul><li>Yemeklerinizi güçlendiren hafif ve nötr bir tat.</li><li>Kızartma ve soteleme gibi yüksek ısıda pişirme için mükemmel.</li><li>Sağlıklı yağlar ve E vitamini bakımından zengin, besleyici bir yemek pişirme seçeneği.</li></ul>",
+      "descriptionAr": "<p>زيت دوار الشمس هو الخيار المثالي لأي شخص يبحث عن زيت طهي صحي ومتعدد الاستخدامات يعزز النكهات الطبيعية لوجباته. مع طعمه الخفيف ونقطة الدخان العالية، يعد زيت دوار الشمس مثاليًا للقلي، والقلي السريع، والخبز، وحتى تحضير الصلصات.</p><p>غني بالدهون غير المشبعة وفيتامين E، يعتبر زيت دوار الشمس خيارًا ممتازًا لأولئك الذين يتطلعون إلى اتخاذ خيارات صحية دون المساومة على النكهة. طعمه المحايد يجعله إضافة مثالية لمجموعة واسعة من الأطباق، من الأطعمة المقلية المقرمشة إلى السلطات المنعشة.</p><p>يوفر زيت دوار الشمس التوازن المثالي بين الصحة والمرونة، مما يجعله عنصرًا أساسيًا في أي مطبخ.</p><h3>لماذا ستحبها:</h3><ul><li>نكهة خفيفة ومحايدة تعزز وجباتك.</li><li>مثالي للطهي في درجات حرارة عالية مثل القلي والقلي السريع.</li><li>غني بالدهون الصحية وفيتامين E كخيار صحي للطهي.</li></ul>",
+      "image": "assets/images/news/blog-details.jpg",
+      "date": "January 20, 2025",
+      "link": "/blog-details",
+      "related": [1, 2, 4, 5]
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "title": "Sweeten Your Creations with Premium White Sugar",
+      "titleTr": "Premium Beyaz Şekerle Yaratımlarınıza Tat Katın",
+      "titleAr": "حلِّ حُلاوة إبداعاتك مع السكر الأبيض الممتاز",
+      "description": "<p>White sugar is a kitchen essential, adding just the right amount of sweetness to your recipes. Whether you’re baking cakes, cookies, or sweetening beverages, white sugar is the go-to choice for achieving the perfect flavor balance.</p><p>Not only does white sugar dissolve easily, making it perfect for cooking and beverages, but it also ensures your dishes come out with the right texture and sweetness. From traditional treats to modern desserts, white sugar is an essential ingredient that guarantees delicious results.</p><p>Discover how white sugar can elevate your baking and cooking, helping you create mouthwatering desserts and perfectly sweetened dishes.</p><h3>Why You’ll Love It:</h3><ul><li>Ideal for all your sweetening needs, from baking to beverages.</li><li>Dissolves easily for smooth, consistent results.</li><li>A must-have ingredient for creating delicious desserts.</li></ul>",
+      "descriptionTr": "<p>Beyaz şeker, tariflerinize tam doğru miktarda tatlılık katan mutfak gereçlerinden biridir. İster kek, kurabiye pişiriyor olun, ister içecekleri tatlandırıyor olun, beyaz şeker mükemmel tat dengesi sağlamanın en iyi seçimidir.</p><p>Beyaz şeker sadece kolayca çözünür, bu da onu yemek pişirme ve içecekler için mükemmel hale getirir, aynı zamanda yemeklerinizin doğru dokusu ve tatlılığını sağlar. Geleneksel tatlardan modern tatlılara kadar, beyaz şeker, lezzetli sonuçlar garanti eden bir bileşendir.</p><p>Beyaz şekerin nasıl pişirme ve yemek yapmanızı zenginleştirebileceğini keşfedin, ağzınızı sulandıran tatlılar ve mükemmel tatlandırılmış yemekler yaratmanıza yardımcı olur.</p><h3>Neden Seveceksiniz:</h3><ul><li>Pişirmeden içeceklere kadar tüm tatlandırma ihtiyaçlarınız için idealdir.</li><li>Yumuşak ve tutarlı sonuçlar için kolayca çözünür.</li><li>Lezzetli tatlılar yaratmak için olmazsa olmaz bir bileşendir.</li></ul>",
+      "descriptionAr": "<p>السكر الأبيض هو عنصر أساسي في المطبخ، حيث يضيف الكمية المناسبة من الحلاوة إلى وصفاتك. سواء كنت تخبز الكعك، أو البسكويت، أو تحلى المشروبات، فإن السكر الأبيض هو الخيار الأمثل لتحقيق التوازن المثالي في النكهة.</p><p>لا يذوب السكر الأبيض فقط بسهولة، مما يجعله مثاليًا للطهي والمشروبات، بل يضمن أيضًا أن تأتي أطباقك بالملمس والطعم الصحيح. من الحلويات التقليدية إلى الحلويات الحديثة، يعد السكر الأبيض مكونًا أساسيًا يضمن نتائج لذيذة.</p><p>اكتشف كيف يمكن للسكر الأبيض أن يعزز الخبز والطهي الخاص بك، مما يساعدك في إنشاء حلويات لذيذة وأطباق محلاة بشكل مثالي.</p><h3>لماذا ستحبها:</h3><ul><li>مثالي لجميع احتياجاتك من التحلية، من الخبز إلى المشروبات.</li><li>يذوب بسهولة للحصول على نتائج ناعمة ومتسقة.</li><li>مكون لا غنى عنه لإنشاء حلويات لذيذة.</li></ul>",
+      "image": "assets/images/news/Sugar-Blog.png",
+      "date": "January 20, 2025",
+      "link": "/blog-details",
+      "related": [1, 2, 3, 5]
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "title": "Experience the Aromatic Perfection of Basmati Rice",
+      "titleTr": "Basmati Pirincinin Aromatik Mükemmelliğini Keşfedin",
+      "titleAr": "اختبر الكمال العطري لأرز بسمتي",
+      "description": "<p>Basmati rice is a staple in kitchens around the world, known for its long, fluffy grains and aromatic fragrance that adds a unique touch to any meal. Whether preparing a fragrant pilaf, a comforting curry, or simply serving as a side dish, basmati rice brings a delicate, light texture that elevates your dining experience.</p><p>The versatility of basmati rice makes it a perfect choice for both everyday meals and special occasions. Its subtle flavor and aromatic quality pair perfectly with a variety of dishes, making it an essential pantry item for anyone who loves flavorful, satisfying meals.</p><p>Indulge in the rich aroma and fluffy texture of basmati rice, and take your cooking to new heights with this premium-quality ingredient.</p><h3>Why You’ll Love It:</h3><ul><li>Long, fluffy grains with a distinct aromatic fragrance.</li><li>Perfect for a variety of dishes, from pilafs to curries.</li><li>Adds a touch of elegance and flavor to any meal.</li></ul>",
+      "descriptionTr": "<p>Basmati pirinci, dünyadaki mutfaklarda vazgeçilmez bir malzemedir, uzun, kabarık taneleri ve herhangi bir yemeğe benzersiz bir dokunuş katan aromatik kokusu ile tanınır. İster nefis bir pilav hazırlıyor olun, rahatlatıcı bir köri pişiriyor olun, ister sadece bir yan yemek olarak servis ediyorsanız, basmati pirinci yemek deneyiminizi yükselten zarif, hafif bir doku sunar.</p><p>Basmati pirincinin çok yönlülüğü, onu hem günlük yemekler hem de özel günler için mükemmel bir seçenek yapar. Hafif tadı ve aromatik özelliği, çeşitli yemeklerle mükemmel bir uyum sağlar ve lezzetli, tatmin edici yemekler seven herkes için mutfakta olmazsa olmaz bir malzeme haline gelir.</p><p>Basmati pirincinin zengin kokusuna ve kabarık dokusuna dalın ve bu kaliteli bileşenle yemeklerinizi yeni zirvelere taşıyın.</p><h3>Neden Seveceksiniz:</h3><ul><li>Belirgin aromatik bir kokuya sahip uzun, kabarık taneler.</li><li>Çeşitli yemekler için mükemmel, pilavlardan körilere kadar.</li><li>Herhangi bir yemeğe zarafet ve lezzet katmak için ideal.</li></ul>",
+      "descriptionAr": "<p>أرز بسمتي هو عنصر أساسي في المطابخ حول العالم، ويشتهر بحبوبه الطويلة والهوائية ورائحته العطرية التي تضفي لمسة فريدة على أي وجبة. سواء كنت تحضر pilaf معطر أو كاري مريح أو تقدم كطبق جانبي بسيط، يضيف أرز بسمتي قوامًا خفيفًا ودقيقًا يعزز تجربة تناول الطعام الخاصة بك.</p><p>تجعل مرونة أرز بسمتي الخيار المثالي للوجبات اليومية والمناسبات الخاصة. يتناسب طعمه الرقيق وجودته العطرية بشكل مثالي مع مجموعة متنوعة من الأطباق، مما يجعله عنصرًا أساسيًا في مخزنك لأي شخص يحب الوجبات اللذيذة والمشبعة.</p><p>انغمس في الرائحة الغنية والملمس الرقيق لأرز بسمتي، ورفع طعامك إلى آفاق جديدة مع هذا المكون عالي الجودة.</p><h3>لماذا ستحبها:</h3><ul><li>حبوب طويلة وهوائية مع رائحة عطرية مميزة.</li><li>مثالي لمجموعة متنوعة من الأطباق، من البيلوفات إلى الكاري.</li><li>يضيف لمسة من الأناقة والنكهة إلى أي وجبة.</li></ul>",
+      "image": "assets/images/news/rice-Blog-.png",
+      "date": "January 20, 2025",
+      "link": "/blog-details",
+      "related": [1, 2, 4, 5]
+    }
+  ]
+}
